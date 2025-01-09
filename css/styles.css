@@ -74,6 +74,7 @@ a{
         letter-spacing: 0.04em;
         color: #fff;
         background-color: #4d5ae5;
+        cursor: pointer;
 }
 .team-title,
 .portfolio-title

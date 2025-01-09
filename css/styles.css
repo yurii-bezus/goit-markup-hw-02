@@ -75,3 +75,46 @@ a{
         color: #fff;
         background-color: #4d5ae5;
 }
+.team-title,
+.portfolio-title
+{
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.benefits-subtitle,
+.team-subtitle,
+.portfolio-subtitle
+{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.benefits-text,
+.team-text,
+.portfolio-text
+{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.order-button:hover,
+.order-button:focus
+{
+    background-color: #404bbf;
+}
+.team-subtitle,
+.team-text
+{text-align: center;}
+.team{
+    background: #f4f4fd;
+}
+.team-item{
+    background-color: #fff;
+}

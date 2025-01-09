@@ -48,6 +48,30 @@ a{
 .contacts-link:focus {
     color: #404bbf;
 }
-.page-footer{
+.page-footer,
+.order
+{
     background-color: #2e2f42;
+}
+.footer-text{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
+.order-title{
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.order-button{
+    font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5;
 }

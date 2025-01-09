@@ -111,7 +111,8 @@ a{
 }
 .team-subtitle,
 .team-text
-{text-align: center;}
+{
+    text-align: center;}
 .team{
     background: #f4f4fd;
 }
